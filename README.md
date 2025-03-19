@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋 I'm Sarthak  
 
-<!--
-**Sarthak-XI/Sarthak-XI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Aspiring Software Developer | Tech Enthusiast | Student*  
+---
+## 💡 About Me (in Java, of course 😄)  
+```java
+import java.util.HashMap;
 
-Here are some ideas to get you started:
+public class AboutMe {
+    public static void main(String[] args) {
+        HashMap<String, String> sarthak = new HashMap<>();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        sarthak.put("Name", "Sarthak");
+        sarthak.put("Role", "Student & Aspiring Developer");
+        sarthak.put("Interests", "Coding, Problem-Solving, Open Source");
+        sarthak.put("Currently Learning", "Web Development, Data Structures, AI/ML");
+        sarthak.put("Hobbies", "Exploring tech, Reading, Gaming");
+
+    }
+}
+```
